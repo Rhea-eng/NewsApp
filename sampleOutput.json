@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "South Africa rugby: The Springboks give hope to a troubled nation",
+      "description": "As South Africa faces economic troubles the Rugby World Cup success is a welcome distraction.",
+      "url": "http://www.bbc.co.uk/news/world-africa-67254346",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B0F/production/_131559693_gettyimages-1750469851.jpg",
+      "publishedAt": "2023-10-29T11:37:18.8223563Z",
+      "content": "South Africans erupted in celebration and relief across the country as their team edged out New Zealand to win the Rugby World Cup final in Paris.\r\nChants of \"ibuyile\" (\"It has returned\") rang out af… [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Princess Leonor of Spain's royal profile rises as she comes of age",
+      "description": "Princess Leonor of Spain's birthday is on Tuesday, prompting talk of what sort of royal she will be.",
+      "url": "http://www.bbc.co.uk/news/world-europe-67230053",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1683/production/_131536750_31cbe28fa26e44c12f56d5cfc76598345dd83ef7.jpg",
+      "publishedAt": "2023-10-28T23:37:17.1826519Z",
+      "content": "Spain's Princess Leonor is about to turn 18, thrusting her into the spotlight as heir to the throne and raising questions about the role she will play as an adult royal.\r\nHer birthday, on Tuesday, wi… [+5102 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tears and relief in Maine after gunman's death",
+      "description": "Lewiston residents were overcome to learn the mass killer was dead and the 48-hour lockdown was over.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67251030",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B4B/production/_131557291_jen_index.png",
+      "publishedAt": "2023-10-28T20:37:18.7444652Z",
+      "content": "For 48 hours, the city of Lewiston in Maine has been on edge as the man accused of fatally shooting 18 people in a bar and a bowling alley was being hunted down. Now the news of his death has release… [+4620 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Mike Pence: Former US Vice President withdraws from 2024 presidential race",
+      "description": "The former US vice president makes the announcement during a Republican Jewish Coalition event.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-67252297",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8061/production/_131556823_09fe0f5917606fc72982bebc9f1441b0d8c4c4c90_0_5804_32661000x563.jpg",
+      "publishedAt": "2023-10-28T19:07:20.5413022Z",
+      "content": "Former US Vice President Mike Pence has withdrawn from the 2024 presidential race.\r\nHe made the announcement at the Republican Jewish Coalition in Las Vegas on Saturday afternoon.\r\n\"We always knew th… [+731 chars]"
+    }
+  ]
+}
