@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import NewsItem from './NewsItem'
-import spinner from './spinner';
 import PropTypes from 'prop-types'
 
 export class News extends Component {
@@ -85,8 +84,8 @@ export class News extends Component {
         })}
         </div>
         <div className="container d-flex justify-content-between">
-        <button disabled={this.state.page<=1} type="button" class="btn btn-dark" onClick={this.handlePrevClick}>&larr; Previous</button>
-        <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize)} type="button" class="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
+        <button disabled={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}>&larr; Previous</button>
+        <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
         </div>
       </div>
     )

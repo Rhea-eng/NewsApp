@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 import NavBar from './component/NavBar';
 import News from './component/News';
 
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 export default class App extends Component {
   render() {
